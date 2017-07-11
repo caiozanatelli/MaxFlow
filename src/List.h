@@ -1,7 +1,7 @@
 #ifndef LIST_H
 #define LIST_H
 
-#define INITIAL_CAPACITY 10;
+#define INITIAL_CAPACITY 10
 
 typedef int ListItem;
 
