@@ -30,7 +30,7 @@ int getListSize(List *pList);
 
 /*------------------------------------------------------------------------------
  Função:  inicializa uma lista, alocando o vetor de dados com a capacidade 
-		  inicial e settando a capacidade e o tamanho da lista.
+          inicial e settando a capacidade e o tamanho da lista.
  Entrada: ponteiro para a lista a ser inicializada.
  Saída:   sem rotorno.
 ------------------------------------------------------------------------------*/
